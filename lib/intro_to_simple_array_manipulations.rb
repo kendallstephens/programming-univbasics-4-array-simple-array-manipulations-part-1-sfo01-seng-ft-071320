@@ -1,2 +1,2 @@
-def using_push(colors_in_the_rainbow,next_color)
+def updated_array(colors_in_the_rainbow,next_color)
 colors_in_the_rainbow.push("next_color")
